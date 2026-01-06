@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0171-excel-sheet-column-number](https://github.com/Bala05072003/leetcode-problems/tree/master/0171-excel-sheet-column-number) |
 | [0242-valid-anagram](https://github.com/Bala05072003/leetcode-problems/tree/master/0242-valid-anagram) |
 ## Sorting
 |  |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0171-excel-sheet-column-number](https://github.com/Bala05072003/leetcode-problems/tree/master/0171-excel-sheet-column-number) |
 | [1642-water-bottles](https://github.com/Bala05072003/leetcode-problems/tree/master/1642-water-bottles) |
 ## Simulation
 |  |
