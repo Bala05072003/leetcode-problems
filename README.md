@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Bala05072003/leetcode-problems/tree/master/0067-add-binary) |
 | [0171-excel-sheet-column-number](https://github.com/Bala05072003/leetcode-problems/tree/master/0171-excel-sheet-column-number) |
 | [0242-valid-anagram](https://github.com/Bala05072003/leetcode-problems/tree/master/0242-valid-anagram) |
 ## Sorting
@@ -39,11 +40,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/Bala05072003/leetcode-problems/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/Bala05072003/leetcode-problems/tree/master/0067-add-binary) |
 | [0171-excel-sheet-column-number](https://github.com/Bala05072003/leetcode-problems/tree/master/0171-excel-sheet-column-number) |
 | [1642-water-bottles](https://github.com/Bala05072003/leetcode-problems/tree/master/1642-water-bottles) |
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Bala05072003/leetcode-problems/tree/master/0067-add-binary) |
 | [1642-water-bottles](https://github.com/Bala05072003/leetcode-problems/tree/master/1642-water-bottles) |
 ## Depth-First Search
 |  |
@@ -65,4 +68,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Bala05072003/leetcode-problems/tree/master/0011-container-with-most-water) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/Bala05072003/leetcode-problems/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
