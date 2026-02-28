@@ -1,13 +1,12 @@
 class Solution {
     public int missingNumber(int[] nums) {
-        int expectedsum=0;
-        int actualsum=0;
-        int n=nums.length;
-        expectedsum=(n*(n+1))/2;
-        for(int i=0;i<n;i++){
-            actualsum+=nums[i];
+        int xor = 0;
+        int n = nums.length;
+        for(int i=0; i<n;i++){
+            xor = xor ^ nums[i];
+            xor = xor ^ (i + 1);
         }
-        return expectedsum-actualsum;
 
+        return xor;
     }
 }
