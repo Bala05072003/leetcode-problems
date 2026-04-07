@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/Bala05072003/leetcode-problems/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/Bala05072003/leetcode-problems/tree/master/0014-longest-common-prefix) |
+| [0020-valid-parentheses](https://github.com/Bala05072003/leetcode-problems/tree/master/0020-valid-parentheses) |
 | [0067-add-binary](https://github.com/Bala05072003/leetcode-problems/tree/master/0067-add-binary) |
 | [0171-excel-sheet-column-number](https://github.com/Bala05072003/leetcode-problems/tree/master/0171-excel-sheet-column-number) |
 | [0242-valid-anagram](https://github.com/Bala05072003/leetcode-problems/tree/master/0242-valid-anagram) |
@@ -117,4 +118,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Bala05072003/leetcode-problems/tree/master/0238-product-of-array-except-self) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Bala05072003/leetcode-problems/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
