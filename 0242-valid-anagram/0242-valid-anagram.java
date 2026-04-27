@@ -1,9 +1,16 @@
 class Solution {
     public boolean isAnagram(String s, String t) {
-        char[] str1=s.toCharArray();
-        char[] str2=t.toCharArray();
-        Arrays.sort(str1);
-        Arrays.sort(str2);
-        return Arrays.equals(str1,str2);
+        if(s.length()!=t.length())return false;
+        s=s.toLowerCase();
+        t=t.toLowerCase();
+        int[] freq=new int[26];
+        for(int i=0;i<s.length();i++){
+            freq[s.charAt(i)-'a']++;
+            freq[t.charAt(i)-'a']--;
+        }
+        for(int c:freq){
+            if(c!=0)return false;
+        }
+        return true;
     }
 }
