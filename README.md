@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/Bala05072003/leetcode-problems/tree/master/0069-sqrtx) |
 | [0171-excel-sheet-column-number](https://github.com/Bala05072003/leetcode-problems/tree/master/0171-excel-sheet-column-number) |
 | [0268-missing-number](https://github.com/Bala05072003/leetcode-problems/tree/master/0268-missing-number) |
+| [0292-nim-game](https://github.com/Bala05072003/leetcode-problems/tree/master/0292-nim-game) |
 | [1642-water-bottles](https://github.com/Bala05072003/leetcode-problems/tree/master/1642-water-bottles) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/Bala05072003/leetcode-problems/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 ## Simulation
@@ -140,4 +141,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Bala05072003/leetcode-problems/tree/master/0004-median-of-two-sorted-arrays) |
+## Brainteaser
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/Bala05072003/leetcode-problems/tree/master/0292-nim-game) |
+## Game Theory
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/Bala05072003/leetcode-problems/tree/master/0292-nim-game) |
 <!---LeetCode Topics End-->
