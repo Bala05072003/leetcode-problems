@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Bala05072003/leetcode-problems/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/Bala05072003/leetcode-problems/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Bala05072003/leetcode-problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0136-single-number](https://github.com/Bala05072003/leetcode-problems/tree/master/0136-single-number) |
 | [0152-maximum-product-subarray](https://github.com/Bala05072003/leetcode-problems/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Bala05072003/leetcode-problems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Bala05072003/leetcode-problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Bala05072003/leetcode-problems/tree/master/0067-add-binary) |
+| [0136-single-number](https://github.com/Bala05072003/leetcode-problems/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/Bala05072003/leetcode-problems/tree/master/0268-missing-number) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/Bala05072003/leetcode-problems/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 ## Trie
