@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Bala05072003/leetcode-problems/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Bala05072003/leetcode-problems/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Bala05072003/leetcode-problems/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/Bala05072003/leetcode-problems/tree/master/0349-intersection-of-two-arrays) |
 ## String
 |  |
 | ------- |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Bala05072003/leetcode-problems/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Bala05072003/leetcode-problems/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Bala05072003/leetcode-problems/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/Bala05072003/leetcode-problems/tree/master/0349-intersection-of-two-arrays) |
 ## Array
 |  |
 | ------- |
@@ -51,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Bala05072003/leetcode-problems/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/Bala05072003/leetcode-problems/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/Bala05072003/leetcode-problems/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/Bala05072003/leetcode-problems/tree/master/0349-intersection-of-two-arrays) |
 | [0463-island-perimeter](https://github.com/Bala05072003/leetcode-problems/tree/master/0463-island-perimeter) |
 | [0643-maximum-average-subarray-i](https://github.com/Bala05072003/leetcode-problems/tree/master/0643-maximum-average-subarray-i) |
 | [2596-check-knight-tour-configuration](https://github.com/Bala05072003/leetcode-problems/tree/master/2596-check-knight-tour-configuration) |
@@ -69,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Bala05072003/leetcode-problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0088-merge-sorted-array](https://github.com/Bala05072003/leetcode-problems/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Bala05072003/leetcode-problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0349-intersection-of-two-arrays](https://github.com/Bala05072003/leetcode-problems/tree/master/0349-intersection-of-two-arrays) |
 ## Math
 |  |
 | ------- |
@@ -113,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Bala05072003/leetcode-problems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Bala05072003/leetcode-problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/Bala05072003/leetcode-problems/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/Bala05072003/leetcode-problems/tree/master/0349-intersection-of-two-arrays) |
 ## Greedy
 |  |
 | ------- |
