@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Bala05072003/leetcode-problems/tree/master/0349-intersection-of-two-arrays) |
 | [0463-island-perimeter](https://github.com/Bala05072003/leetcode-problems/tree/master/0463-island-perimeter) |
 | [0643-maximum-average-subarray-i](https://github.com/Bala05072003/leetcode-problems/tree/master/0643-maximum-average-subarray-i) |
+| [0724-find-pivot-index](https://github.com/Bala05072003/leetcode-problems/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/Bala05072003/leetcode-problems/tree/master/1480-running-sum-of-1d-array) |
 | [1929-concatenation-of-array](https://github.com/Bala05072003/leetcode-problems/tree/master/1929-concatenation-of-array) |
 | [2596-check-knight-tour-configuration](https://github.com/Bala05072003/leetcode-problems/tree/master/2596-check-knight-tour-configuration) |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Bala05072003/leetcode-problems/tree/master/0238-product-of-array-except-self) |
+| [0724-find-pivot-index](https://github.com/Bala05072003/leetcode-problems/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/Bala05072003/leetcode-problems/tree/master/1480-running-sum-of-1d-array) |
 ## Stack
 |  |
