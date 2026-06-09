@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Bala05072003/leetcode-problems/tree/master/0349-intersection-of-two-arrays) |
 | [0463-island-perimeter](https://github.com/Bala05072003/leetcode-problems/tree/master/0463-island-perimeter) |
 | [0643-maximum-average-subarray-i](https://github.com/Bala05072003/leetcode-problems/tree/master/0643-maximum-average-subarray-i) |
+| [1929-concatenation-of-array](https://github.com/Bala05072003/leetcode-problems/tree/master/1929-concatenation-of-array) |
 | [2596-check-knight-tour-configuration](https://github.com/Bala05072003/leetcode-problems/tree/master/2596-check-knight-tour-configuration) |
 ## Dynamic Programming
 |  |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/Bala05072003/leetcode-problems/tree/master/0067-add-binary) |
 | [1642-water-bottles](https://github.com/Bala05072003/leetcode-problems/tree/master/1642-water-bottles) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/Bala05072003/leetcode-problems/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
+| [1929-concatenation-of-array](https://github.com/Bala05072003/leetcode-problems/tree/master/1929-concatenation-of-array) |
 | [2596-check-knight-tour-configuration](https://github.com/Bala05072003/leetcode-problems/tree/master/2596-check-knight-tour-configuration) |
 ## Depth-First Search
 |  |
