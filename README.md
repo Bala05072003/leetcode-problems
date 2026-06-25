@@ -210,4 +210,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Bala05072003/leetcode-problems/tree/master/0347-top-k-frequent-elements) |
+## Database
+|  |
+| ------- |
+| [0181-employees-earning-more-than-their-managers](https://github.com/Bala05072003/leetcode-problems/tree/master/0181-employees-earning-more-than-their-managers) |
 <!---LeetCode Topics End-->
