@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Bala05072003/leetcode-problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/Bala05072003/leetcode-problems/tree/master/0152-maximum-product-subarray) |
+| [0509-fibonacci-number](https://github.com/Bala05072003/leetcode-problems/tree/master/0509-fibonacci-number) |
 ## Two Pointers
 |  |
 | ------- |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0171-excel-sheet-column-number](https://github.com/Bala05072003/leetcode-problems/tree/master/0171-excel-sheet-column-number) |
 | [0268-missing-number](https://github.com/Bala05072003/leetcode-problems/tree/master/0268-missing-number) |
 | [0292-nim-game](https://github.com/Bala05072003/leetcode-problems/tree/master/0292-nim-game) |
+| [0509-fibonacci-number](https://github.com/Bala05072003/leetcode-problems/tree/master/0509-fibonacci-number) |
 | [1642-water-bottles](https://github.com/Bala05072003/leetcode-problems/tree/master/1642-water-bottles) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/Bala05072003/leetcode-problems/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 ## Simulation
@@ -243,4 +245,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Bala05072003/leetcode-problems/tree/master/0128-longest-consecutive-sequence) |
+## Recursion
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/Bala05072003/leetcode-problems/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/Bala05072003/leetcode-problems/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
