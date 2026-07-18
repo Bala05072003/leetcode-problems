@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Bala05072003/leetcode-problems/tree/master/0349-intersection-of-two-arrays) |
 | [0424-longest-repeating-character-replacement](https://github.com/Bala05072003/leetcode-problems/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/Bala05072003/leetcode-problems/tree/master/0567-permutation-in-string) |
+| [0763-partition-labels](https://github.com/Bala05072003/leetcode-problems/tree/master/0763-partition-labels) |
 | [0904-fruit-into-baskets](https://github.com/Bala05072003/leetcode-problems/tree/master/0904-fruit-into-baskets) |
 ## String
 |  |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/Bala05072003/leetcode-problems/tree/master/0344-reverse-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/Bala05072003/leetcode-problems/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/Bala05072003/leetcode-problems/tree/master/0567-permutation-in-string) |
+| [0763-partition-labels](https://github.com/Bala05072003/leetcode-problems/tree/master/0763-partition-labels) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Bala05072003/leetcode-problems/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 ## Sorting
 |  |
@@ -113,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/Bala05072003/leetcode-problems/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/Bala05072003/leetcode-problems/tree/master/0349-intersection-of-two-arrays) |
 | [0567-permutation-in-string](https://github.com/Bala05072003/leetcode-problems/tree/master/0567-permutation-in-string) |
+| [0763-partition-labels](https://github.com/Bala05072003/leetcode-problems/tree/master/0763-partition-labels) |
 | [0876-middle-of-the-linked-list](https://github.com/Bala05072003/leetcode-problems/tree/master/0876-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/Bala05072003/leetcode-problems/tree/master/0977-squares-of-a-sorted-array) |
 ## Math
@@ -174,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Bala05072003/leetcode-problems/tree/master/0011-container-with-most-water) |
+| [0763-partition-labels](https://github.com/Bala05072003/leetcode-problems/tree/master/0763-partition-labels) |
 ## Bit Manipulation
 |  |
 | ------- |
