@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/Bala05072003/leetcode-problems/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Bala05072003/leetcode-problems/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/Bala05072003/leetcode-problems/tree/master/0035-search-insert-position) |
+| [0048-rotate-image](https://github.com/Bala05072003/leetcode-problems/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/Bala05072003/leetcode-problems/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/Bala05072003/leetcode-problems/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/Bala05072003/leetcode-problems/tree/master/0088-merge-sorted-array) |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Bala05072003/leetcode-problems/tree/master/0013-roman-to-integer) |
+| [0048-rotate-image](https://github.com/Bala05072003/leetcode-problems/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/Bala05072003/leetcode-problems/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Bala05072003/leetcode-problems/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Bala05072003/leetcode-problems/tree/master/0069-sqrtx) |
@@ -167,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Bala05072003/leetcode-problems/tree/master/0048-rotate-image) |
 | [0463-island-perimeter](https://github.com/Bala05072003/leetcode-problems/tree/master/0463-island-perimeter) |
 | [2596-check-knight-tour-configuration](https://github.com/Bala05072003/leetcode-problems/tree/master/2596-check-knight-tour-configuration) |
 ## Binary Search
