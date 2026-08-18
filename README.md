@@ -159,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Bala05072003/leetcode-problems/tree/master/0094-binary-tree-inorder-traversal) |
 | [0463-island-perimeter](https://github.com/Bala05072003/leetcode-problems/tree/master/0463-island-perimeter) |
 | [2596-check-knight-tour-configuration](https://github.com/Bala05072003/leetcode-problems/tree/master/2596-check-knight-tour-configuration) |
 ## Breadth-First Search
@@ -230,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Bala05072003/leetcode-problems/tree/master/0020-valid-parentheses) |
+| [0094-binary-tree-inorder-traversal](https://github.com/Bala05072003/leetcode-problems/tree/master/0094-binary-tree-inorder-traversal) |
 | [0155-min-stack](https://github.com/Bala05072003/leetcode-problems/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/Bala05072003/leetcode-problems/tree/master/0234-palindrome-linked-list) |
 ## String Matching
@@ -313,4 +315,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/Bala05072003/leetcode-problems/tree/master/0155-min-stack) |
+## Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Bala05072003/leetcode-problems/tree/master/0094-binary-tree-inorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Bala05072003/leetcode-problems/tree/master/0094-binary-tree-inorder-traversal) |
 <!---LeetCode Topics End-->
