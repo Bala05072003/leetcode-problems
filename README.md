@@ -230,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Bala05072003/leetcode-problems/tree/master/0020-valid-parentheses) |
+| [0155-min-stack](https://github.com/Bala05072003/leetcode-problems/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/Bala05072003/leetcode-problems/tree/master/0234-palindrome-linked-list) |
 ## String Matching
 |  |
@@ -308,4 +309,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/Bala05072003/leetcode-problems/tree/master/0142-linked-list-cycle-ii) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/Bala05072003/leetcode-problems/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
